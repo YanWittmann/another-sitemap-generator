@@ -1,0 +1,7 @@
+{
+  "name": "another-sitemap-generator",
+  "version": "1.0.0",
+  "devDependencies": {
+    "puppeteer": "^16.1.0"
+  }
+}
